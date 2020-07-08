@@ -1,0 +1,8 @@
+php artisan serve
+php artisan list
+php artisan help migrate
+php artisan make:command SendEmails
+php artisan make:controller
+php artisan make:middleware
+php artisan make:migration
+php artisan make:model 
